@@ -1,0 +1,4 @@
+D:/2020/Azure_Sphere_SK_ADC_RTApp/AvnetAzureSphereSK_OLED/AvnetStarterKitReferenceDesign/out/ARM-Release-4/CMakeFiles/Avnet-Starter-Kit-reference.dir
+D:/2020/Azure_Sphere_SK_ADC_RTApp/AvnetAzureSphereSK_OLED/AvnetStarterKitReferenceDesign/out/ARM-Release-4/CMakeFiles/MakeImage.dir
+D:/2020/Azure_Sphere_SK_ADC_RTApp/AvnetAzureSphereSK_OLED/AvnetStarterKitReferenceDesign/out/ARM-Release-4/CMakeFiles/edit_cache.dir
+D:/2020/Azure_Sphere_SK_ADC_RTApp/AvnetAzureSphereSK_OLED/AvnetStarterKitReferenceDesign/out/ARM-Release-4/CMakeFiles/rebuild_cache.dir

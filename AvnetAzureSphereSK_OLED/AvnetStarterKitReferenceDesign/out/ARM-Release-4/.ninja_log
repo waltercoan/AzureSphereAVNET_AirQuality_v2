@@ -1,0 +1,11 @@
+# ninja log v5
+1	94	0	clean	98086822ac0ca284
+12	853	604277888	CMakeFiles/Avnet-Starter-Kit-reference.dir/epoll_timerfd_utilities.c.obj	411a67a56136ffea
+63	1046	604277888	CMakeFiles/Avnet-Starter-Kit-reference.dir/device_twin.c.obj	6ea1906e40c3282
+23	1052	604277888	CMakeFiles/Avnet-Starter-Kit-reference.dir/oled.c.obj	9913ccd518eec93f
+73	1129	604277889	CMakeFiles/Avnet-Starter-Kit-reference.dir/i2c.c.obj	b2d368086f94b570
+33	1197	604277889	CMakeFiles/Avnet-Starter-Kit-reference.dir/azure_iot_utilities.c.obj	b28ebe0d5d3912ab
+94	1300	604277889	CMakeFiles/Avnet-Starter-Kit-reference.dir/sd1306.c.obj	ef0b5962e030ff8
+82	1325	604277889	CMakeFiles/Avnet-Starter-Kit-reference.dir/lps22hh_reg.c.obj	d762c92d7bc074b9
+43	1506	604277889	CMakeFiles/Avnet-Starter-Kit-reference.dir/parson.c.obj	34a7de8948536f17
+53	2317	604277890	CMakeFiles/Avnet-Starter-Kit-reference.dir/lsm6dso_reg.c.obj	fc3bacf45af63a07

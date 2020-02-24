@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Avnet-Starter-Kit-reference",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Avnet-Starter-Kit-reference::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Avnet-Starter-Kit-reference-Debug-cbab0fdd86943ceb32a9.json",
+					"name" : "Avnet-Starter-Kit-reference",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MakeImage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MakeImage-Debug-225f86b6c7f44d3104d1.json",
+					"name" : "MakeImage",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/2020/Azure_Sphere_SK_ADC_RTApp/AvnetAzureSphereSK_OLED/AvnetStarterKitReferenceDesign/out/ARM-Debug-4",
+		"source" : "D:/2020/Azure_Sphere_SK_ADC_RTApp/AvnetAzureSphereSK_OLED/AvnetStarterKitReferenceDesign"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
